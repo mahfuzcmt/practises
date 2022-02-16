@@ -11,6 +11,12 @@ package me.mahfuz.practises;
 public abstract class MailSender {
 
 
+    String subject = "This is a test mail";
+
     public abstract String sendMail();
 
+
+    public String getSubject() {
+        return subject;
+    }
 }

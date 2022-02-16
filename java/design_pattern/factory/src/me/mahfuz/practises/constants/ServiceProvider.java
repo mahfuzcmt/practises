@@ -1,4 +1,4 @@
-package me.mahfuz.practises.util;
+package me.mahfuz.practises.constants;
 
 public enum ServiceProvider {
 

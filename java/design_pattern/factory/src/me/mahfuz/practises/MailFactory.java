@@ -3,7 +3,7 @@ package me.mahfuz.practises;
 import me.mahfuz.practises.helper.Gmail;
 import me.mahfuz.practises.helper.Office365;
 import me.mahfuz.practises.helper.Sendgrid;
-import me.mahfuz.practises.util.ServiceProvider;
+import me.mahfuz.practises.constants.ServiceProvider;
 
 public class MailFactory {
 
